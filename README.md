@@ -1,8 +1,8 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=38C2FF&random=false&width=700&height=100&lines=Hello%2C+Stranger!+This+is+nowod's+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=38C2FF&random=false&width=1200&height=300&lines=Hello%2C+Stranger!+This+is+nowod's+Github)](https://git.io/typing-svg)
 
-**:musical_keyboard: 주 사용 Skill & learning**
+# **:musical_keyboard: 주 사용 Skill & learning**
 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=black)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -21,18 +21,20 @@
 ----------------------------------------------------------
 
 
-**:microphone: Aboutme**
-
-*1997년생, 경기도 용인시 거주, 백앤드 개발자 준비생입니다.*
-
-*"꾸준함이 있다면, 자신만의 꿈에 도달 할 수 있다고 생각합니다."* 
 
 
->portfolio - 준비중
+# **:microphone: Aboutme**
+
+# *1997년생, 경기도 용인시 거주, 백앤드 개발자 준비생입니다.*
+
+# *"꾸준함이 있다면, 자신만의 꿈에 도달 할 수 있다고 생각합니다."* 
+
+
+>## portfolio - 준비중
 >
->email - ldowon1223@naver.com
+>## email - ldowon1223@naver.com
 >
->cafe - https://cafe.naver.com/gaebalsaebal97
+>## cafe - https://cafe.naver.com/gaebalsaebal97
 
 
 
