@@ -25,16 +25,15 @@
 
 # **:microphone: Aboutme**
 
-# *1997년생, 경기도 용인시 거주, 백앤드 개발자 준비생입니다.*
+ *1997년생, 경기도 용인시 거주, 백앤드 개발자 준비생입니다.*
 
-# *"꾸준함이 있다면, 자신만의 꿈에 도달 할 수 있다고 생각합니다."* 
+ *"꾸준함이 있다면, 자신만의 꿈에 도달 할 수 있다고 생각합니다."*
 
-
->## portfolio - 준비중
+>portfolio - 준비중
 >
->## email - ldowon1223@naver.com
+>email - ldowon1223@naver.com
 >
->## cafe - https://cafe.naver.com/gaebalsaebal97
+>cafe - https://cafe.naver.com/gaebalsaebal97
 
 
 
