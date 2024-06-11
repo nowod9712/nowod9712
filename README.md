@@ -29,8 +29,10 @@
 
  *"꾸준함이 있다면, 자신만의 꿈에 도달 할 수 있다고 생각합니다."*
 
->portfolio - 패션플로우 프로젝트 : http://13.124.136.15:8094/
-           - 캠핑가 프로젝트 : 
+>portfolio
+> - 패션플로우 프로젝트 : http://13.124.136.15:8094/
+> - 캠핑가 프로젝트(시연 영상) : https://www.youtube.com/watch?v=hRCN4liGMag
+>
 >
 >email - ldowon1223@naver.com
 >
